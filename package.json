@@ -1,0 +1,16 @@
+{
+  "name": "backtofront",
+  "version": "1.0.0",
+  "description": "Educational, it'll cover the following points 1. Client side programming, 2. Server side programming, 3. Connection between both the sides and database. Technologies used: MongoDB, NodeJS, Express, VanillaJS.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Asheesh",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.15.2",
+    "mongo": "^0.1.0",
+    "mongoose": "^4.9.2"
+  }
+}
